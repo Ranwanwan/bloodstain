@@ -1,5 +1,4 @@
 # bloodstain
-install
 ### Install 
 ```bash
 pip install -r requirements.txt
